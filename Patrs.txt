@@ -1,0 +1,22 @@
+3DP-DurableHinge-V2
+Durable Hinge with steel parts enhancement
+V2 modification indroduces possibility to use 3D printed pin to connect hinge.
+additionaly base part has been a little bit odchudzone.
+
+ANG:
+1. Printed Hinge__Base 	     x1
+2. Printed Hinge__Arm 	     x1
+3. Printed Hinge__Screw      x1 [ Optional ]
+4. Printed Hinge__Nut        x1 [ Optional ]
+5. Ericsson flat head nut M8 x2 [ Wood furniture Part ]
+6. Wood insert nut M5x12     x7 [ Wood furniture Part ]
+7. Screw DIN912 M5x20 	     x7 [ Regular steel Part  ]
+8. Steel threaded rod M8X55  x1 [ Regular steel Part  ]
+9. Milscraft 5201 Screw      x7 [ Optional            ]
+
+Possible parts configuration:
+
+1 -> 1,2,5,6,7,8 Threded insert  
+2 -> 1,2,3,4,7,8 Threded insert, Less durability
+1 -> 1,2,5,6,9   Pocket Screw
+2 -> 1,2,3,4,9   Pocket Screw    Less durability
