@@ -24,7 +24,7 @@
 | A  | Metal rod M8 and Ericsson                                          | |
 | B  | Printed Pin                                                        | |
 | C  | Metal DIN912 Screw and nut                                         | |
-                                              | **(choose one)**  |
+|----|----------------------------------------| **(choose one)**  |-------| |
 |----|----------------------------------------| MOUNTING VARIANTS |-------|-|
 | G  | Metal DIN912 Screw and wood insert                                 | |
 | H  | Pocket screw MILESCRAFT 5201                                       | |
