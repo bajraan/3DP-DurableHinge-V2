@@ -65,9 +65,32 @@
 
 
 
+<!-- VARIANTS SECTION -->
+<!-- VARIANTS SECTION -->
+<!-- VARIANTS SECTION -->
+
+
 
 <p align="center">
-    <font size="6"><b>Gallery</b></font><br>
+    <font size="10"><b>VARIANTS</b></font><br>
+</p>
+
+<div align="center">
+    <img src="05_Inkscape\Variants___Page 1.png" width="600" height="600"/>
+</div>
+
+<div align="center">
+    <img src="05_Inkscape\Variants___Page 2.png" width="600" height="600"/>
+</div>
+
+
+<!-- GALLERY SECTION -->
+<!-- GALLERY SECTION -->
+<!-- GALLERY SECTION -->
+
+
+<p align="center">
+    <font size="10"><b>GALLERY</b></font><br>
 </p>
 
 <div align="center">
