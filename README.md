@@ -8,7 +8,6 @@
     <img src="Flyer.png" width="500" height="500"/>
 </div>
 
-
 <p align="center">
     <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/Markdown-1.0.1-000000?style=for-the-badge&logo=markdown" alt="Markdown Badge" /></a>
     <a href="https://github.com/bajraan"><img src="https://img.shields.io/badge/github-follow_me-181717?style=for-the-badge&logo=github&color=181717" alt="GitHub Badge" /></a>
@@ -19,18 +18,19 @@
 > [!IMPORTANT]
 > **This model consists of a few variants. Check the list below and choose the one that best fits your needs.**
 
-> [!NOTE]
->```markdown
->PIN VARIANTS          **(choose one)**
->|----|------------------------------------|-|
->| A  | Metal rod M8 and Ericsson          | |
->| B  | Printed Pin                        | |
->| C  | Metal DIN912 Screw and nut         | |
->MOUNTING VARIANTS     **(choose one)**
->|----|------------------------------------|-|
->| G  | Metal DIN912 Screw and wood insert | |
->| H  | Pocket screw MILESCRAFT 5201       | |
->```
+```markdown
+PIN VARIANTS          **(choose one)**
+|----|------------------------------------|-|
+| A  | Metal rod M8 and Ericsson          | |
+| B  | Printed Pin                        | |
+| C  | Metal DIN912 Screw and nut         | |
+MOUNTING VARIANTS     **(choose one)**
+|----|------------------------------------|-|
+| G  | Metal DIN912 Screw and wood insert | |
+| H  | Pocket screw MILESCRAFT 5201       | |
+```
+
+
 
 ```markdown
 |MOUNT| PIN | nr | Part name                    | cnt | Comment             |
@@ -49,6 +49,8 @@
 |     |  C  | 12 | HINGE__Spacer                | x 2 | Print               |
 |  H  |     | 13 | Pocket Screw MILESCRAFT 5201 | x 2 | wood furniture Part |
 ```
+
+
 
 <div align="center">
      <img src="05_Inkscape\Page_01.png" width="600" height="600"/>
@@ -83,9 +85,11 @@
 </div>
 
 
+
 <!-- GALLERY SECTION -->
 <!-- GALLERY SECTION -->
 <!-- GALLERY SECTION -->
+
 
 
 <p align="center">
@@ -103,5 +107,7 @@
 <div align="center">
     <img src="05_Inkscape\Page_06.png" width="600" height="600"/>
 </div>
+
+
 
 <!-- End README -->
