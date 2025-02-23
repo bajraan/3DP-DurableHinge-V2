@@ -19,13 +19,13 @@
 > **This model consists of a few variants. Check the list below and choose the one that best fits your needs.**
 
 ```markdown
-                                                **(choose one)**
-|----|----------------------------------------- PIN VARIANTS  ------------|-|
+                                              | **(choose one)**  |
+|----|----------------------------------------| PIN VARIANTS      |-------|-|
 | A  | Metal rod M8 and Ericsson                                          | |
 | B  | Printed Pin                                                        | |
 | C  | Metal DIN912 Screw and nut                                         | |
-                                                **(choose one)**
-|----|----------------------------------------  MOUNTING VARIANTS --------|-|
+                                              | **(choose one)**  |
+|----|----------------------------------------| MOUNTING VARIANTS |-------|-|
 | G  | Metal DIN912 Screw and wood insert                                 | |
 | H  | Pocket screw MILESCRAFT 5201                                       | |
 ```
