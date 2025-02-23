@@ -1,6 +1,5 @@
 <!-- Begin README -->
 
-
 <p align="center">
     <font size="5"><b>3DP-DurableHinge-V2</b></font><br>
     <font size="4">Durable hinge with enhanced steel components</font>
@@ -8,7 +7,8 @@
 <div align="center">
     <img src="Flyer.png" width="500" height="500"/>
 </div>
-<br>
+
+
 <p align="center">
     <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/Markdown-1.0.1-000000?style=for-the-badge&logo=markdown" alt="Markdown Badge" /></a>
     <a href="https://github.com/bajraan"><img src="https://img.shields.io/badge/github-follow_me-181717?style=for-the-badge&logo=github&color=181717" alt="GitHub Badge" /></a>
@@ -18,17 +18,18 @@
 
 > [!IMPORTANT]
 > **This model consists of a few variants. Check the list below and choose the one that best fits your needs.**
+
 > [!NOTE]
 >```markdown
 >PIN VARIANTS:
->|----|------------------------------------|---|
->| A  | Metal rod M8 and Ericsson          |   |
->| B  | Printed Pin                        |   |
->| C  | Metal DIN912 Screw and nut         |   |
+>|----|------------------------------------|-|
+>| A  | Metal rod M8 and Ericsson          | |
+>| B  | Printed Pin                        | |
+>| C  | Metal DIN912 Screw and nut         | |
 >MOUNTING VARIANTS:
->|----|------------------------------------|---|
->| G  | Metal DIN912 Screw and wood insert |   |
->| H  | Pocket screw MILESCRAFT 5201       |   |
+>|----|------------------------------------|-|
+>| G  | Metal DIN912 Screw and wood insert | |
+>| H  | Pocket screw MILESCRAFT 5201       | |
 >```
 
 > [!NOTE]
