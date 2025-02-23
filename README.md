@@ -17,15 +17,15 @@
 </p>
 
 > [!IMPORTANT]
-> **This model consists of three variants, check below list and variants, and decide which one > you want ro reproduce.**
+> **This model consists of a few variants. Check the list below and choose the one that best fits your needs.**
 > [!NOTE]
 >```markdown
-> PIN VARIANTS:
+>PIN VARIANTS:
 >|----|------------------------------------|---|
 >| A  | Metal rod M8 and Ericsson          |   |
 >| B  | Printed Pin                        |   |
 >| C  | Metal DIN912 Screw and nut         |   |
-> MOUNTING VARIANTS:
+>MOUNTING VARIANTS:
 >|----|------------------------------------|---|
 >| G  | Metal DIN912 Screw and wood insert |   |
 >| H  | Pocket screw MILESCRAFT 5201       |   |
@@ -49,23 +49,34 @@
 >| 12 | HINGE__Spacer                | x 2 | Print               |
 >| 13 | Pocket Screw MILESCRAFT 5201 | x 2 | Regular steel Part  |
 >```
+
 <div align="center">
      <img src="05_Inkscape\Page_01.png" width="600" height="600"/>
-</div>
-<div align="center">
-    <img src="05_Inkscape\Page_02.png" width="600" height="600"/>
 </div>
 
 <div align="center">
     <img src="05_Inkscape\Page_03.png" width="600" height="600"/>
 </div>
-<div align="center">
-    <img src="05_Inkscape\Page_04.png" width="600" height="600"/>
-</div>
 
 <div align="center">
     <img src="05_Inkscape\Page_05.png" width="600" height="600"/>
 </div>
+
+
+
+
+<p align="center">
+    <font size="6"><b>Gallery</b></font><br>
+</p>
+
+<div align="center">
+    <img src="05_Inkscape\Page_02.png" width="600" height="600"/>
+</div>
+
+<div align="center">
+    <img src="05_Inkscape\Page_04.png" width="600" height="600"/>
+</div>
+
 <div align="center">
     <img src="05_Inkscape\Page_06.png" width="600" height="600"/>
 </div>
