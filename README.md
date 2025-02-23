@@ -38,12 +38,12 @@
 | ALL | ALL | 2  | HINGE__Arm                   | x 1 | Print               |
 |     |  A  | 3  | Ericsson flat head nut M8    | x 2 | wood furniture Part |
 |     |  A  | 4  | Steel threaded rod     M8X55 | x 7 | wood furniture Part |
-|  G  |     | 5  | Screw DIN912           M5x20 | x 7 | Regular steel Part  |
-|  G  |     | 6  | Wood insert nut        M5x12 | x 1 | Regular steel Part  |
+|  G  |     | 5  | Screw DIN912           M5X20 | x 7 | Regular steel Part  |
+|  G  |     | 6  | Wood insert nut        M5X12 | x 1 | Regular steel Part  |
 |     |  B  | 7  | HINGE__Pin                   | x 2 | Print               |
 |     |  B  | 8  | HINGE__Pin_Nut               | x 2 | Print               |
 |     |     | 9  |                              |     |                     |
-|     |  C  | 10 | Screw DIN912           M8x75 | x 2 | Regular steel Part  |
+|     |  C  | 10 | Screw DIN912           M8X75 | x 2 | Regular steel Part  |
 |     |  C  | 11 | Nut                    M8    | x 2 | Regular steel Part  |
 |     |  C  | 12 | HINGE__Spacer                | x 2 | Print               |
 |  H  |     | 13 | Pocket Screw MILESCRAFT 5201 | x 2 | wood furniture Part |
