@@ -19,21 +19,25 @@
 > **This model consists of a few variants. Check the list below and choose the one that best fits your needs.**
 
 ```markdown
-|----|----------------------------------------| choose one        |-------|-|
-|----|----------------------------------------| PIN VARIANTS      |-------|-|
-| A  | Metal rod M8 and Ericsson                                          | |
-| B  | Printed Pin                                                        | |
-| C  | Metal DIN912 Screw and nut                                         | |
-|----|----------------------------------------| choose one        |-------|-|
-|----|----------------------------------------| MOUNTING VARIANTS |-------|-|
-| G  | Metal DIN912 Screw and wood insert                                 | |
-| H  | Pocket screw MILESCRAFT 5201                                       | |
-|----|--------------------------------------------------------------------|-|
+|---------------------------------------------------------------------------|
+|-----------------------------------------------------| choose one          |
+|-----------------------------------------------------| PIN VARIANTS        |
+| A  | Metal rod M8 and Ericsson nut                                        |
+| B  | Printed pin                                                          |
+| C  | Metal DIN912 screw and nut                                           |
+|---------------------------------------------------------------------------|
+|-----------------------------------------------------| choose one          |
+|-----------------------------------------------------| MOUNTING VARIANTS   |
+| G  | Metal DIN912 screw and wood insert                                   |
+| H  | Pocket screw MILESCRAFT 5201                                         |
+|---------------------------------------------------------------------------|
 ```
 
 
 
 ```markdown
+|---------------------------------------------------------------------------|
+|-----------------------------| COMPONENT INDEX |---------------------------|
 |MOUNT| PIN | nr | Part name                    | cnt | Comment             |
 |-----|-----|----|------------------------------|-----|---------------------|
 | ALL | ALL | 1  | HINGE__Base                  | x 1 | Print               |
@@ -49,6 +53,7 @@
 |     |  C  | 11 | Nut                    M8    | x 2 | Regular steel Part  |
 |     |  C  | 12 | HINGE__Spacer                | x 2 | Print               |
 |  H  |     | 13 | Pocket Screw MILESCRAFT 5201 | x 2 | wood furniture Part |
+|-----|-----|----|------------------------------|-----|---------------------|
 ```
 
 
