@@ -83,7 +83,17 @@
     <img src="05_Inkscape\Variants___Page 2.png" width="600" height="600"/>
 </div>
 
+<!-- TechDraw SECTION -->
+<!-- TechDraw SECTION -->
+<!-- TechDraw SECTION -->
 
+<p align="center">
+    <font size="10"><b>DIMENSIONS</b></font><br>
+</p>
+
+<div align="center">
+    <img src="05_Inkscape\TechDraw_200x200_Page_3.png" width="600" height=900"/>
+</div>
 
 <!-- GALLERY SECTION -->
 <!-- GALLERY SECTION -->
