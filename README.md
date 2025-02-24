@@ -92,7 +92,7 @@
 </p>
 
 <div align="center">
-    <img src="05_Inkscape\TechDraw_200x200_Page_3.png"/>
+    <img src="05_Inkscape\TechDraw_200X200_Page_3.png"/>
 </div>
 
 <!-- GALLERY SECTION -->
