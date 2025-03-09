@@ -1,11 +1,9 @@
 <!-- Begin README -->
 
-<p align="center">
-    <font size="5"><b>3DP-DurableHinge-V2</b></font><br>
-    <font size="4">Durable hinge with enhanced steel components</font>
-</p>
+
 <div align="center">
-    <img src="Flyer.png" width="500" height="500"/>
+    <img src="05_Inkscape\Title.png"/>
+    <img src="Flyer.png"/>
 </div>
 
 <p align="center">
@@ -14,6 +12,9 @@
     <a href="mailto:bajran1616@gmail.com"><img src="https://img.shields.io/badge/gmail-contact_me-EA4335?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
     <br>
 </p>
+
+
+
 
 > [!IMPORTANT]
 > **This model consists of a few variants. Check the list below and choose the one that best fits your needs.**
@@ -123,5 +124,10 @@
 </div>
 
 <!-- End README -->
+
+<p align="center">
+    <font size="5"><b>3DP-DurableHinge-V2</b></font><br>
+    <font size="4">Durable hinge with enhanced steel components</font>
+</p>
 
 <!-- github background #0d1117 -->
