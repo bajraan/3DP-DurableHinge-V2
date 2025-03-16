@@ -30,9 +30,9 @@
      inkscape:deskcolor="#ffffff"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="4.3144725"
-     inkscape:cx="21.32358"
-     inkscape:cy="226.79482"
+     inkscape:zoom="2.1572363"
+     inkscape:cx="268.39898"
+     inkscape:cy="161.08574"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -413,7 +413,7 @@
          id="tspan7-4-9"
          x="52.046196"
          y="132.85986"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">HINGE__Pin                x1 [ Wood furniture Part ]</tspan></text><text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">HINGE__Pin                x1</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#011938;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-opacity:1"
        x="52.046196"
@@ -423,7 +423,7 @@
          id="tspan7-4-6"
          x="52.046196"
          y="159.29379"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">HINGE__Pin_Nut            x1 [ Wood furniture Part ]</tspan></text><text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">HINGE__Pin_Nut            x1</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#011938;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:round;stroke-miterlimit:6;stroke-dasharray:none;stroke-opacity:1"
        x="52.046196"
@@ -433,7 +433,7 @@
          id="tspan7-4-8"
          x="52.046196"
          y="185.69513"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Screw DIN912 M5x20 	      x6 [ Regular steel Part  ]</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Screw DIN912      M5x20 	 x6 [ Regular steel part  ]</tspan><tspan
          sodipodi:role="line"
          x="52.046196"
          y="206.51544"
@@ -448,7 +448,7 @@
          x="52.046196"
          y="212.15181"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         id="tspan12">Steel threaded rod M8X55  x6 [ Regular steel Part  ]</tspan><tspan
+         id="tspan12">Wood insert nut   M5X12   x6 [ Wood furniture part ]</tspan><tspan
          sodipodi:role="line"
          x="52.046196"
          y="232.97212"
