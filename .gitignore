@@ -36,6 +36,7 @@ Thumbs.db
 /Release/
 
 # User ignored
+/99_TMP_
 /21_Electrical/Screens_2/
 /21_Electrical/U37AX__USB-C_PowerDelivery_DevBoard-backups
 /21_Electrical/U37AX_USB_PowerDelivery_TestBoard-backups
